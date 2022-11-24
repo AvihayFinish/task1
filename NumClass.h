@@ -1,0 +1,11 @@
+#ifndef UNTITLED1_NUMCLASS_H
+#define UNTITLED1_NUMCLASS_H
+int isPrime(int);
+int isArmstrong(int);
+int isStrong(int);
+int isPalindrome(int);
+int isArmstrong_1(int,int,int);
+int pow_1(int,int);
+int count(int);
+int rev(int,int);
+#endif //UNTITLED1_NUMCLASS_H
